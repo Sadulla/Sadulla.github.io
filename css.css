@@ -1,0 +1,16 @@
+h1, p{
+	font-family:Florence, cursive;
+
+}
+p{
+	font-size:15px;
+	color:blue;
+}
+h1{
+	color:red;
+	text-align:center;
+}
+b{
+	color:green;
+	text-align:left;
+}
